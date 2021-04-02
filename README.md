@@ -1,1 +1,1 @@
-# Ejercicios_guiados_cursos
+# Ejercicios_guiados_curso1
